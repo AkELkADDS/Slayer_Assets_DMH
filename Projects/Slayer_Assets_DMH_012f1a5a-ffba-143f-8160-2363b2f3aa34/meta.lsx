@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="8" revision="0" build="10"/>
+    <region id="MetaData">
+        <node id="root">
+            <attribute id="GameProject" type="LSString" value=""/>
+            <attribute id="Module" type="LSString" value="012f1a5a-ffba-143f-8160-2363b2f3aa34"/>
+            <attribute id="Name" type="LSString" value="Slayer_Assets_DMH"/>
+            <attribute id="UUID" type="LSString" value="31e08e99-fead-0372-4e8c-200e2d045416"/>
+            <attribute id="UpdatedDependencies" type="bool" value="true"/>
+            <children>
+                <node id="Categories"/>
+            </children>
+        </node>
+    </region>
+</save>

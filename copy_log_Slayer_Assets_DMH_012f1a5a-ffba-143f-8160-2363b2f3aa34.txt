@@ -1,0 +1,275 @@
+====================================================== 
+   BG3 MOD BACKUP DETAILED LOG - Slayer_Assets_DMH_012f1a5a-ffba-143f-8160-2363b2f3aa34 
+   Mon 05/19/2025  7:42:41.92 
+====================================================== 
+ 
+BG3 Path: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data 
+Backup folder: C:\GIT_BG3\MOD_REPOS\Slayer_Assets_DMH_012f1a5a-ffba-143f-8160-2363b2f3aa34 
+ 
+[FILE COPYING REPORT] 
+====================================================== 
+SECTION 1: FILES FOUND 
+------------------------------------------------------------------------ 
+ 
+[LOG] Found mod folder: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\Slayer_Assets_DMH_012f1a5a-ffba-143f-8160-2363b2f3aa34 
+ 
+Files found: 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\Slayer_Assets_DMH_012f1a5a-ffba-143f-8160-2363b2f3aa34\meta.lsx 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\Slayer_Assets_DMH_012f1a5a-ffba-143f-8160-2363b2f3aa34\thumbnail.png 
+Total files in E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\Slayer_Assets_DMH_012f1a5a-ffba-143f-8160-2363b2f3aa34: 2 
+ 
+[LOG] Found mod folder: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\"Editor\Mods"\Slayer_Assets_DMH_012f1a5a-ffba-143f-8160-2363b2f3aa34 
+ 
+Files found: 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\Slayer_Assets_DMH_012f1a5a-ffba-143f-8160-2363b2f3aa34\CharacterCreation\CharacterCreationAppearanceVisuals.tbl 
+Total files in E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\"Editor\Mods"\Slayer_Assets_DMH_012f1a5a-ffba-143f-8160-2363b2f3aa34: 1 
+ 
+[LOG] Found mod folder: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Slayer_Assets_DMH_012f1a5a-ffba-143f-8160-2363b2f3aa34 
+ 
+Files found: 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Slayer_Assets_DMH_012f1a5a-ffba-143f-8160-2363b2f3aa34\meta.lsx 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Slayer_Assets_DMH_012f1a5a-ffba-143f-8160-2363b2f3aa34\mod_publish_logo.png 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Slayer_Assets_DMH_012f1a5a-ffba-143f-8160-2363b2f3aa34\GUI\metadata.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Slayer_Assets_DMH_012f1a5a-ffba-143f-8160-2363b2f3aa34\Localization\English\english.xml 
+Total files in E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Slayer_Assets_DMH_012f1a5a-ffba-143f-8160-2363b2f3aa34: 4 
+ 
+[LOG] Found mod folder: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Slayer_Assets_DMH_012f1a5a-ffba-143f-8160-2363b2f3aa34 
+ 
+Files found: 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Slayer_Assets_DMH_012f1a5a-ffba-143f-8160-2363b2f3aa34\CharacterCreation\CharacterCreationAppearanceVisuals.lsx 
+Total files in E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Slayer_Assets_DMH_012f1a5a-ffba-143f-8160-2363b2f3aa34: 1 
+ 
+[LOG] Total files found across all folders: 8 
+ 
+SECTION 2: COPY OPERATIONS 
+------------------------------------------------------------------------ 
+ 
+[DEBUG] Creating directory: C:\GIT_BG3\MOD_REPOS\Slayer_Assets_DMH_012f1a5a-ffba-143f-8160-2363b2f3aa34\Projects\Slayer_Assets_DMH_012f1a5a-ffba-143f-8160-2363b2f3aa34\.. 
+[LOG] Starting copy of E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\Slayer_Assets_DMH_012f1a5a-ffba-143f-8160-2363b2f3aa34 to Projects\Slayer_Assets_DMH_012f1a5a-ffba-143f-8160-2363b2f3aa34 
+[DEBUG] Using source: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\Slayer_Assets_DMH_012f1a5a-ffba-143f-8160-2363b2f3aa34 
+[DEBUG] Using destination: Projects\Slayer_Assets_DMH_012f1a5a-ffba-143f-8160-2363b2f3aa34 
+[LOG] Robocopy completed with code: 0 
+[DEBUG] Extracting stats from temp log 
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Monday, May 19, 2025 7:42:45 AM
+   Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\Slayer_Assets_DMH_012f1a5a-ffba-143f-8160-2363b2f3aa34\
+     Dest : C:\GIT_BG3\MOD_REPOS\Slayer_Assets_DMH_012f1a5a-ffba-143f-8160-2363b2f3aa34\Projects\Slayer_Assets_DMH_012f1a5a-ffba-143f-8160-2363b2f3aa34\
+
+    Files : *.*
+	    
+  Options : *.* /V /S /E /DCOPY:D /COPY:DT /MT:4 /R:3 /W:1 
+
+------------------------------------------------------------------------------
+
+	    New File  		     695	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\Slayer_Assets_DMH_012f1a5a-ffba-143f-8160-2363b2f3aa34\meta.lsx100%  
+	    New File  		   5.1 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\Slayer_Assets_DMH_012f1a5a-ffba-143f-8160-2363b2f3aa34\thumbnail.png 28%  100%  
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         1         1         1         0         0         0
+   Files :         2         2         0         0         0         0
+   Bytes :    5.19 m    5.19 m         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+
+
+   Speed :           453810333 Bytes/sec.
+   Speed :           25967.235 MegaBytes/min.
+   Ended : Monday, May 19, 2025 7:42:45 AM
+
+ 
+[DEBUG] Counting source files 
+[DEBUG] Total files counted: 2 
+[DEBUG] Successfully copied files: 2 
+[LOG] Copy statistics for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\Slayer_Assets_DMH_012f1a5a-ffba-143f-8160-2363b2f3aa34: 
+      Total files: 2 
+      Copied successfully: 2 
+      Skipped: 0 
+      Mismatched: 0 
+      Failed: 0 
+ 
+[LOG] Checking for any failed files: 
+ 
+[DEBUG] Creating directory: C:\GIT_BG3\MOD_REPOS\Slayer_Assets_DMH_012f1a5a-ffba-143f-8160-2363b2f3aa34\Editor\Mods\Slayer_Assets_DMH_012f1a5a-ffba-143f-8160-2363b2f3aa34\.. 
+[LOG] Starting copy of E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\"Editor\Mods"\Slayer_Assets_DMH_012f1a5a-ffba-143f-8160-2363b2f3aa34 to "Editor\Mods"\Slayer_Assets_DMH_012f1a5a-ffba-143f-8160-2363b2f3aa34 
+[DEBUG] Using source: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\Slayer_Assets_DMH_012f1a5a-ffba-143f-8160-2363b2f3aa34 
+[DEBUG] Using destination: Editor\Mods\Slayer_Assets_DMH_012f1a5a-ffba-143f-8160-2363b2f3aa34 
+[LOG] Robocopy completed with code: 0 
+[DEBUG] Extracting stats from temp log 
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Monday, May 19, 2025 7:42:47 AM
+   Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\Slayer_Assets_DMH_012f1a5a-ffba-143f-8160-2363b2f3aa34\
+     Dest : C:\GIT_BG3\MOD_REPOS\Slayer_Assets_DMH_012f1a5a-ffba-143f-8160-2363b2f3aa34\Editor\Mods\Slayer_Assets_DMH_012f1a5a-ffba-143f-8160-2363b2f3aa34\
+
+    Files : *.*
+	    
+  Options : *.* /V /S /E /DCOPY:D /COPY:DT /MT:4 /R:3 /W:1 
+
+------------------------------------------------------------------------------
+
+	    New File  		   31933	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\Slayer_Assets_DMH_012f1a5a-ffba-143f-8160-2363b2f3aa34\CharacterCreation\CharacterCreationAppearanceVisuals.tbl  0%  100%  
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         2         2         1         0         0         0
+   Files :         1         1         0         0         0         0
+   Bytes :    31.1 k    31.1 k         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+
+
+   Speed :            31933000 Bytes/sec.
+   Speed :            1827.220 MegaBytes/min.
+   Ended : Monday, May 19, 2025 7:42:47 AM
+
+ 
+[DEBUG] Counting source files 
+[DEBUG] Total files counted: 1 
+[DEBUG] Successfully copied files: 1 
+[LOG] Copy statistics for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\"Editor\Mods"\Slayer_Assets_DMH_012f1a5a-ffba-143f-8160-2363b2f3aa34: 
+      Total files: 1 
+      Copied successfully: 1 
+      Skipped: 0 
+      Mismatched: 0 
+      Failed: 0 
+ 
+[LOG] Checking for any failed files: 
+ 
+[DEBUG] Creating directory: C:\GIT_BG3\MOD_REPOS\Slayer_Assets_DMH_012f1a5a-ffba-143f-8160-2363b2f3aa34\Mods\Slayer_Assets_DMH_012f1a5a-ffba-143f-8160-2363b2f3aa34\.. 
+[LOG] Starting copy of E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Slayer_Assets_DMH_012f1a5a-ffba-143f-8160-2363b2f3aa34 to Mods\Slayer_Assets_DMH_012f1a5a-ffba-143f-8160-2363b2f3aa34 
+[DEBUG] Using source: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Slayer_Assets_DMH_012f1a5a-ffba-143f-8160-2363b2f3aa34 
+[DEBUG] Using destination: Mods\Slayer_Assets_DMH_012f1a5a-ffba-143f-8160-2363b2f3aa34 
+[LOG] Robocopy completed with code: 0 
+[DEBUG] Extracting stats from temp log 
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Monday, May 19, 2025 7:42:48 AM
+   Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Slayer_Assets_DMH_012f1a5a-ffba-143f-8160-2363b2f3aa34\
+     Dest : C:\GIT_BG3\MOD_REPOS\Slayer_Assets_DMH_012f1a5a-ffba-143f-8160-2363b2f3aa34\Mods\Slayer_Assets_DMH_012f1a5a-ffba-143f-8160-2363b2f3aa34\
+
+    Files : *.*
+	    
+  Options : *.* /V /S /E /DCOPY:D /COPY:DT /MT:4 /R:3 /W:1 
+
+------------------------------------------------------------------------------
+
+	    New File  		    7135	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Slayer_Assets_DMH_012f1a5a-ffba-143f-8160-2363b2f3aa34\meta.lsx100%  
+	    New File  		   5.1 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Slayer_Assets_DMH_012f1a5a-ffba-143f-8160-2363b2f3aa34\mod_publish_logo.png  0%  100%  
+	    New File  		    1141	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Slayer_Assets_DMH_012f1a5a-ffba-143f-8160-2363b2f3aa34\GUI\metadata.lsf100%  
+	    New File  		    2623	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Slayer_Assets_DMH_012f1a5a-ffba-143f-8160-2363b2f3aa34\Localization\English\english.xml100%  
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         4         4         1         0         0         0
+   Files :         4         4         0         0         0         0
+   Bytes :    5.20 m    5.20 m         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+
+
+   Speed :           2727964000 Bytes/sec.
+   Speed :           156095.352 MegaBytes/min.
+   Ended : Monday, May 19, 2025 7:42:48 AM
+
+ 
+[DEBUG] Counting source files 
+[DEBUG] Total files counted: 4 
+[DEBUG] Successfully copied files: 4 
+[LOG] Copy statistics for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Slayer_Assets_DMH_012f1a5a-ffba-143f-8160-2363b2f3aa34: 
+      Total files: 4 
+      Copied successfully: 4 
+      Skipped: 0 
+      Mismatched: 0 
+      Failed: 0 
+ 
+[LOG] Checking for any failed files: 
+ 
+[DEBUG] Creating directory: C:\GIT_BG3\MOD_REPOS\Slayer_Assets_DMH_012f1a5a-ffba-143f-8160-2363b2f3aa34\Public\Slayer_Assets_DMH_012f1a5a-ffba-143f-8160-2363b2f3aa34\.. 
+[LOG] Starting copy of E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Slayer_Assets_DMH_012f1a5a-ffba-143f-8160-2363b2f3aa34 to Public\Slayer_Assets_DMH_012f1a5a-ffba-143f-8160-2363b2f3aa34 
+[DEBUG] Using source: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Slayer_Assets_DMH_012f1a5a-ffba-143f-8160-2363b2f3aa34 
+[DEBUG] Using destination: Public\Slayer_Assets_DMH_012f1a5a-ffba-143f-8160-2363b2f3aa34 
+[LOG] Robocopy completed with code: 0 
+[DEBUG] Extracting stats from temp log 
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Monday, May 19, 2025 7:42:50 AM
+   Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Slayer_Assets_DMH_012f1a5a-ffba-143f-8160-2363b2f3aa34\
+     Dest : C:\GIT_BG3\MOD_REPOS\Slayer_Assets_DMH_012f1a5a-ffba-143f-8160-2363b2f3aa34\Public\Slayer_Assets_DMH_012f1a5a-ffba-143f-8160-2363b2f3aa34\
+
+    Files : *.*
+	    
+  Options : *.* /V /S /E /DCOPY:D /COPY:DT /MT:4 /R:3 /W:1 
+
+------------------------------------------------------------------------------
+
+	    New File  		   24059	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Slayer_Assets_DMH_012f1a5a-ffba-143f-8160-2363b2f3aa34\CharacterCreation\CharacterCreationAppearanceVisuals.lsx  0%  100%  
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         2         2         1         0         0         0
+   Files :         1         1         0         0         0         0
+   Bytes :    23.4 k    23.4 k         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+
+
+   Speed :            24059000 Bytes/sec.
+   Speed :            1376.667 MegaBytes/min.
+   Ended : Monday, May 19, 2025 7:42:50 AM
+
+ 
+[DEBUG] Counting source files 
+[DEBUG] Total files counted: 1 
+[DEBUG] Successfully copied files: 1 
+[LOG] Copy statistics for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Slayer_Assets_DMH_012f1a5a-ffba-143f-8160-2363b2f3aa34: 
+      Total files: 1 
+      Copied successfully: 1 
+      Skipped: 0 
+      Mismatched: 0 
+      Failed: 0 
+ 
+[LOG] Checking for any failed files: 
+ 
+SECTION 3: FALLBACK COPY ATTEMPTS 
+------------------------------------------------------------------------ 
+ 
+[LOG] Fallback copy attempt for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\Slayer_Assets_DMH_012f1a5a-ffba-143f-8160-2363b2f3aa34 
+[LOG] Xcopy completed with code: 0 
+[LOG] Xcopy fallback successful 
+[LOG] Files copied by xcopy: 2 
+[LOG] Fallback copy attempt for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\Slayer_Assets_DMH_012f1a5a-ffba-143f-8160-2363b2f3aa34 
+[LOG] Xcopy completed with code: 0 
+[LOG] Xcopy fallback successful 
+[LOG] Files copied by xcopy: 1 
+[LOG] Fallback copy attempt for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Slayer_Assets_DMH_012f1a5a-ffba-143f-8160-2363b2f3aa34 
+[LOG] Xcopy completed with code: 0 
+[LOG] Xcopy fallback successful 
+[LOG] Files copied by xcopy: 4 
+[LOG] Fallback copy attempt for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Slayer_Assets_DMH_012f1a5a-ffba-143f-8160-2363b2f3aa34 
+[LOG] Xcopy completed with code: 0 
+[LOG] Xcopy fallback successful 
+[LOG] Files copied by xcopy: 1 
+SECTION 4: FINAL SUMMARY 
+------------------------------------------------------------------------ 
+ 
+[SUMMARY] Total mod folders found: 1 
+[SUMMARY] Total files found: 8 
+[SUMMARY] Total files successfully copied: 16 
+ 
+[SUMMARY] All files were copied successfully 
+ 
+====================================================== 
