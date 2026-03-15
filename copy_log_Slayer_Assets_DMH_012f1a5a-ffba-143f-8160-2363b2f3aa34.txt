@@ -1,6 +1,6 @@
 ====================================================== 
    BG3 MOD BACKUP DETAILED LOG - Slayer_Assets_DMH_012f1a5a-ffba-143f-8160-2363b2f3aa34 
-   Sun 03/15/2026 16:11:11.61 
+   Sun 03/15/2026 16:17:49.37 
 ====================================================== 
  
 BG3 Path: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data 
@@ -55,7 +55,7 @@ SECTION 2: COPY OPERATIONS
    ROBOCOPY     ::     Robust File Copy for Windows                              
 -------------------------------------------------------------------------------
 
-  Started : Sunday, March 15, 2026 4:11:14 PM
+  Started : Sunday, March 15, 2026 4:17:52 PM
    Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\Slayer_Assets_DMH_012f1a5a-ffba-143f-8160-2363b2f3aa34\
      Dest : C:\GIT_BG3\MOD_REPOS\Slayer_Assets_DMH_012f1a5a-ffba-143f-8160-2363b2f3aa34\Projects\Slayer_Assets_DMH_012f1a5a-ffba-143f-8160-2363b2f3aa34\
 
@@ -66,7 +66,7 @@ SECTION 2: COPY OPERATIONS
 ------------------------------------------------------------------------------
 
 	    New File  		     695	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\Slayer_Assets_DMH_012f1a5a-ffba-143f-8160-2363b2f3aa34\meta.lsx100%  
-	    New File  		   5.1 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\Slayer_Assets_DMH_012f1a5a-ffba-143f-8160-2363b2f3aa34\thumbnail.png  9%  100%  
+	    New File  		   5.1 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\Slayer_Assets_DMH_012f1a5a-ffba-143f-8160-2363b2f3aa34\thumbnail.png 19%  100%  
 
 ------------------------------------------------------------------------------
 
@@ -79,7 +79,7 @@ SECTION 2: COPY OPERATIONS
 
    Speed :           5445724000 Bytes/sec.
    Speed :           311606.826 MegaBytes/min.
-   Ended : Sunday, March 15, 2026 4:11:14 PM
+   Ended : Sunday, March 15, 2026 4:17:52 PM
 
  
 [DEBUG] Counting source files 
@@ -105,7 +105,7 @@ SECTION 2: COPY OPERATIONS
    ROBOCOPY     ::     Robust File Copy for Windows                              
 -------------------------------------------------------------------------------
 
-  Started : Sunday, March 15, 2026 4:11:16 PM
+  Started : Sunday, March 15, 2026 4:17:53 PM
    Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\Slayer_Assets_DMH_012f1a5a-ffba-143f-8160-2363b2f3aa34\
      Dest : C:\GIT_BG3\MOD_REPOS\Slayer_Assets_DMH_012f1a5a-ffba-143f-8160-2363b2f3aa34\Editor\Mods\Slayer_Assets_DMH_012f1a5a-ffba-143f-8160-2363b2f3aa34\
 
@@ -124,7 +124,7 @@ SECTION 2: COPY OPERATIONS
    Files :         1         1         0         0         0         0
    Bytes :    77.8 k    77.8 k         0         0         0         0
    Times :   0:00:00   0:00:00                       0:00:00   0:00:00
-   Ended : Sunday, March 15, 2026 4:11:16 PM
+   Ended : Sunday, March 15, 2026 4:17:53 PM
 
  
 [DEBUG] Counting source files 
@@ -150,7 +150,7 @@ SECTION 2: COPY OPERATIONS
    ROBOCOPY     ::     Robust File Copy for Windows                              
 -------------------------------------------------------------------------------
 
-  Started : Sunday, March 15, 2026 4:11:17 PM
+  Started : Sunday, March 15, 2026 4:17:55 PM
    Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Slayer_Assets_DMH_012f1a5a-ffba-143f-8160-2363b2f3aa34\
      Dest : C:\GIT_BG3\MOD_REPOS\Slayer_Assets_DMH_012f1a5a-ffba-143f-8160-2363b2f3aa34\Mods\Slayer_Assets_DMH_012f1a5a-ffba-143f-8160-2363b2f3aa34\
 
@@ -161,7 +161,7 @@ SECTION 2: COPY OPERATIONS
 ------------------------------------------------------------------------------
 
 	    New File  		   14094	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Slayer_Assets_DMH_012f1a5a-ffba-143f-8160-2363b2f3aa34\meta.lsx100%  
-	    New File  		   5.1 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Slayer_Assets_DMH_012f1a5a-ffba-143f-8160-2363b2f3aa34\mod_publish_logo.png  9%  100%  
+	    New File  		   5.1 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Slayer_Assets_DMH_012f1a5a-ffba-143f-8160-2363b2f3aa34\mod_publish_logo.png  0%  100%  
 	    New File  		    1141	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Slayer_Assets_DMH_012f1a5a-ffba-143f-8160-2363b2f3aa34\GUI\metadata.lsf100%  
 	    New File  		    6331	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Slayer_Assets_DMH_012f1a5a-ffba-143f-8160-2363b2f3aa34\Localization\English\english.xml100%  
 
@@ -174,9 +174,9 @@ SECTION 2: COPY OPERATIONS
    Times :   0:00:00   0:00:00                       0:00:00   0:00:00
 
 
-   Speed :           5466595000 Bytes/sec.
-   Speed :           312801.074 MegaBytes/min.
-   Ended : Sunday, March 15, 2026 4:11:17 PM
+   Speed :           2733297500 Bytes/sec.
+   Speed :           156400.537 MegaBytes/min.
+   Ended : Sunday, March 15, 2026 4:17:55 PM
 
  
 [DEBUG] Counting source files 
@@ -202,7 +202,7 @@ SECTION 2: COPY OPERATIONS
    ROBOCOPY     ::     Robust File Copy for Windows                              
 -------------------------------------------------------------------------------
 
-  Started : Sunday, March 15, 2026 4:11:19 PM
+  Started : Sunday, March 15, 2026 4:17:57 PM
    Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Slayer_Assets_DMH_012f1a5a-ffba-143f-8160-2363b2f3aa34\
      Dest : C:\GIT_BG3\MOD_REPOS\Slayer_Assets_DMH_012f1a5a-ffba-143f-8160-2363b2f3aa34\Public\Slayer_Assets_DMH_012f1a5a-ffba-143f-8160-2363b2f3aa34\
 
@@ -221,7 +221,7 @@ SECTION 2: COPY OPERATIONS
    Files :         1         1         0         0         0         0
    Bytes :    58.3 k    58.3 k         0         0         0         0
    Times :   0:00:00   0:00:00                       0:00:00   0:00:00
-   Ended : Sunday, March 15, 2026 4:11:19 PM
+   Ended : Sunday, March 15, 2026 4:17:57 PM
 
  
 [DEBUG] Counting source files 
