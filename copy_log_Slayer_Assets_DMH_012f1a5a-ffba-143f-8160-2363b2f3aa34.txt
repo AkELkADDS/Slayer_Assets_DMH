@@ -1,6 +1,6 @@
 ====================================================== 
    BG3 MOD BACKUP DETAILED LOG - Slayer_Assets_DMH_012f1a5a-ffba-143f-8160-2363b2f3aa34 
-   Tue 03/17/2026 20:58:31.12 
+   Tue 03/17/2026 23:30:18.85 
 ====================================================== 
  
 BG3 Path: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data 
@@ -90,7 +90,7 @@ SECTION 2: COPY OPERATIONS
    ROBOCOPY     ::     Robust File Copy for Windows                              
 -------------------------------------------------------------------------------
 
-  Started : Tuesday, March 17, 2026 8:58:34 PM
+  Started : Tuesday, March 17, 2026 11:30:21 PM
    Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\Slayer_Assets_DMH_012f1a5a-ffba-143f-8160-2363b2f3aa34\
      Dest : C:\GIT_BG3\MOD_REPOS\Slayer_Assets_DMH_012f1a5a-ffba-143f-8160-2363b2f3aa34\Projects\Slayer_Assets_DMH_012f1a5a-ffba-143f-8160-2363b2f3aa34\
 
@@ -101,7 +101,7 @@ SECTION 2: COPY OPERATIONS
 ------------------------------------------------------------------------------
 
 	    New File  		     695	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\Slayer_Assets_DMH_012f1a5a-ffba-143f-8160-2363b2f3aa34\meta.lsx100%  
-	    New File  		   5.1 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\Slayer_Assets_DMH_012f1a5a-ffba-143f-8160-2363b2f3aa34\thumbnail.png  9%  100%  
+	    New File  		   5.1 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\Slayer_Assets_DMH_012f1a5a-ffba-143f-8160-2363b2f3aa34\thumbnail.png  0%  100%  
 
 ------------------------------------------------------------------------------
 
@@ -114,7 +114,7 @@ SECTION 2: COPY OPERATIONS
 
    Speed :           2722862000 Bytes/sec.
    Speed :           155803.413 MegaBytes/min.
-   Ended : Tuesday, March 17, 2026 8:58:34 PM
+   Ended : Tuesday, March 17, 2026 11:30:21 PM
 
  
 [DEBUG] Counting source files 
@@ -140,7 +140,7 @@ SECTION 2: COPY OPERATIONS
    ROBOCOPY     ::     Robust File Copy for Windows                              
 -------------------------------------------------------------------------------
 
-  Started : Tuesday, March 17, 2026 8:58:35 PM
+  Started : Tuesday, March 17, 2026 11:30:23 PM
    Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\Slayer_Assets_DMH_012f1a5a-ffba-143f-8160-2363b2f3aa34\
      Dest : C:\GIT_BG3\MOD_REPOS\Slayer_Assets_DMH_012f1a5a-ffba-143f-8160-2363b2f3aa34\Editor\Mods\Slayer_Assets_DMH_012f1a5a-ffba-143f-8160-2363b2f3aa34\
 
@@ -159,7 +159,7 @@ SECTION 2: COPY OPERATIONS
    Files :         1         1         0         0         0         0
    Bytes :   128.5 k   128.5 k         0         0         0         0
    Times :   0:00:00   0:00:00                       0:00:00   0:00:00
-   Ended : Tuesday, March 17, 2026 8:58:35 PM
+   Ended : Tuesday, March 17, 2026 11:30:23 PM
 
  
 [DEBUG] Counting source files 
@@ -185,7 +185,7 @@ SECTION 2: COPY OPERATIONS
    ROBOCOPY     ::     Robust File Copy for Windows                              
 -------------------------------------------------------------------------------
 
-  Started : Tuesday, March 17, 2026 8:58:38 PM
+  Started : Tuesday, March 17, 2026 11:30:25 PM
    Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Slayer_Assets_DMH_012f1a5a-ffba-143f-8160-2363b2f3aa34\
      Dest : C:\GIT_BG3\MOD_REPOS\Slayer_Assets_DMH_012f1a5a-ffba-143f-8160-2363b2f3aa34\Mods\Slayer_Assets_DMH_012f1a5a-ffba-143f-8160-2363b2f3aa34\
 
@@ -196,7 +196,7 @@ SECTION 2: COPY OPERATIONS
 ------------------------------------------------------------------------------
 
 	    New File  		   14094	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Slayer_Assets_DMH_012f1a5a-ffba-143f-8160-2363b2f3aa34\meta.lsx100%  
-	    New File  		   5.1 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Slayer_Assets_DMH_012f1a5a-ffba-143f-8160-2363b2f3aa34\mod_publish_logo.png  0%  100%  
+	    New File  		   5.1 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Slayer_Assets_DMH_012f1a5a-ffba-143f-8160-2363b2f3aa34\mod_publish_logo.png  9%  100%  
 	    New File  		    1141	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Slayer_Assets_DMH_012f1a5a-ffba-143f-8160-2363b2f3aa34\GUI\metadata.lsf100%  
 	    New File  		   10039	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Slayer_Assets_DMH_012f1a5a-ffba-143f-8160-2363b2f3aa34\Localization\English\english.xml100%  
 
@@ -211,7 +211,7 @@ SECTION 2: COPY OPERATIONS
 
    Speed :           2735151500 Bytes/sec.
    Speed :           156506.624 MegaBytes/min.
-   Ended : Tuesday, March 17, 2026 8:58:38 PM
+   Ended : Tuesday, March 17, 2026 11:30:25 PM
 
  
 [DEBUG] Counting source files 
@@ -237,7 +237,7 @@ SECTION 2: COPY OPERATIONS
    ROBOCOPY     ::     Robust File Copy for Windows                              
 -------------------------------------------------------------------------------
 
-  Started : Tuesday, March 17, 2026 8:58:39 PM
+  Started : Tuesday, March 17, 2026 11:30:26 PM
    Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Slayer_Assets_DMH_012f1a5a-ffba-143f-8160-2363b2f3aa34\
      Dest : C:\GIT_BG3\MOD_REPOS\Slayer_Assets_DMH_012f1a5a-ffba-143f-8160-2363b2f3aa34\Public\Slayer_Assets_DMH_012f1a5a-ffba-143f-8160-2363b2f3aa34\
 
@@ -260,18 +260,18 @@ SECTION 2: COPY OPERATIONS
 	    New File  		    2791	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Slayer_Assets_DMH_012f1a5a-ffba-143f-8160-2363b2f3aa34\Content\[PAK]_Slayer_Assets_Valtheris\e1c578b4-e9e7-4be6-9084-1098e2a3f40e.lsf100%  
 	    New File  		    2846	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Slayer_Assets_DMH_012f1a5a-ffba-143f-8160-2363b2f3aa34\Content\[PAK]_Slayer_Assets_Valtheris\ede3ef03-efbe-4e98-b67a-566fd1c9e78b.lsf100%  
 	    New File  		    2791	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Slayer_Assets_DMH_012f1a5a-ffba-143f-8160-2363b2f3aa34\Content\[PAK]_Slayer_Assets_Valtheris\fca68405-2dcf-4cd4-b4e4-cc13bef389f9.lsf100%  
-	    New File  		  257716	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Slayer_Assets_DMH_012f1a5a-ffba-143f-8160-2363b2f3aa34\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Valtheris\Jaw\DGB_EL_MD_Jaw_Vexa_Valtheris_VexaB_L.GR2100%  
-	    New File  		     204	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Slayer_Assets_DMH_012f1a5a-ffba-143f-8160-2363b2f3aa34\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Valtheris\Jaw\DGB_EL_MD_Jaw_Vexa_Valtheris_VexaB_L.xml100%  
-	    New File  		  257716	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Slayer_Assets_DMH_012f1a5a-ffba-143f-8160-2363b2f3aa34\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Valtheris\Jaw\DGB_EL_MD_Jaw_Vexa_Valtheris_VexaB_R.GR2100%  
-	    New File  		     204	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Slayer_Assets_DMH_012f1a5a-ffba-143f-8160-2363b2f3aa34\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Valtheris\Jaw\DGB_EL_MD_Jaw_Vexa_Valtheris_VexaB_R.xml100%  
-	    New File  		  238260	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Slayer_Assets_DMH_012f1a5a-ffba-143f-8160-2363b2f3aa34\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Valtheris\Jaw\DGB_EL_MD_Jaw_Vexa_Valtheris_VexaC.GR2100%  
-	    New File  		     202	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Slayer_Assets_DMH_012f1a5a-ffba-143f-8160-2363b2f3aa34\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Valtheris\Jaw\DGB_EL_MD_Jaw_Vexa_Valtheris_VexaC.xml100%  
 	    New File  		  862780	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Slayer_Assets_DMH_012f1a5a-ffba-143f-8160-2363b2f3aa34\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Valtheris\Crest\DGB_EL_MD_Top_Vexa_Valtheris_VexaB_L.GR2100%  
 	    New File  		     206	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Slayer_Assets_DMH_012f1a5a-ffba-143f-8160-2363b2f3aa34\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Valtheris\Crest\DGB_EL_MD_Top_Vexa_Valtheris_VexaB_L.xml100%  
 	    New File  		  862848	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Slayer_Assets_DMH_012f1a5a-ffba-143f-8160-2363b2f3aa34\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Valtheris\Crest\DGB_EL_MD_Top_Vexa_Valtheris_VexaB_R.GR2100%  
 	    New File  		     206	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Slayer_Assets_DMH_012f1a5a-ffba-143f-8160-2363b2f3aa34\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Valtheris\Crest\DGB_EL_MD_Top_Vexa_Valtheris_VexaB_R.xml100%  
 	    New File  		  834492	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Slayer_Assets_DMH_012f1a5a-ffba-143f-8160-2363b2f3aa34\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Valtheris\Crest\DGB_EL_MD_Top_Vexa_Valtheris_VexaC.GR2100%  
 	    New File  		     204	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Slayer_Assets_DMH_012f1a5a-ffba-143f-8160-2363b2f3aa34\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Valtheris\Crest\DGB_EL_MD_Top_Vexa_Valtheris_VexaC.xml100%  
+	    New File  		  257716	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Slayer_Assets_DMH_012f1a5a-ffba-143f-8160-2363b2f3aa34\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Valtheris\Jaw\DGB_EL_MD_Jaw_Vexa_Valtheris_VexaB_L.GR2100%  
+	    New File  		     204	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Slayer_Assets_DMH_012f1a5a-ffba-143f-8160-2363b2f3aa34\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Valtheris\Jaw\DGB_EL_MD_Jaw_Vexa_Valtheris_VexaB_L.xml100%  
+	    New File  		  257716	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Slayer_Assets_DMH_012f1a5a-ffba-143f-8160-2363b2f3aa34\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Valtheris\Jaw\DGB_EL_MD_Jaw_Vexa_Valtheris_VexaB_R.GR2100%  
+	    New File  		     204	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Slayer_Assets_DMH_012f1a5a-ffba-143f-8160-2363b2f3aa34\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Valtheris\Jaw\DGB_EL_MD_Jaw_Vexa_Valtheris_VexaB_R.xml100%  
+	    New File  		  238260	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Slayer_Assets_DMH_012f1a5a-ffba-143f-8160-2363b2f3aa34\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Valtheris\Jaw\DGB_EL_MD_Jaw_Vexa_Valtheris_VexaC.GR2100%  
+	    New File  		     202	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Slayer_Assets_DMH_012f1a5a-ffba-143f-8160-2363b2f3aa34\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Valtheris\Jaw\DGB_EL_MD_Jaw_Vexa_Valtheris_VexaC.xml100%  
 
 ------------------------------------------------------------------------------
 
@@ -282,9 +282,9 @@ SECTION 2: COPY OPERATIONS
    Times :   0:00:00   0:00:00                       0:00:00   0:00:00
 
 
-   Speed :           382692777 Bytes/sec.
-   Speed :           21897.856 MegaBytes/min.
-   Ended : Tuesday, March 17, 2026 8:58:39 PM
+   Speed :           574039166 Bytes/sec.
+   Speed :           32846.784 MegaBytes/min.
+   Ended : Tuesday, March 17, 2026 11:30:26 PM
 
  
 [DEBUG] Counting source files 
@@ -310,7 +310,7 @@ SECTION 2: COPY OPERATIONS
    ROBOCOPY     ::     Robust File Copy for Windows                              
 -------------------------------------------------------------------------------
 
-  Started : Tuesday, March 17, 2026 8:58:41 PM
+  Started : Tuesday, March 17, 2026 11:30:28 PM
    Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Slayer_Assets_DMH_012f1a5a-ffba-143f-8160-2363b2f3aa34\
      Dest : C:\GIT_BG3\MOD_REPOS\Slayer_Assets_DMH_012f1a5a-ffba-143f-8160-2363b2f3aa34\Generated\Public\Slayer_Assets_DMH_012f1a5a-ffba-143f-8160-2363b2f3aa34\
 
@@ -336,9 +336,9 @@ SECTION 2: COPY OPERATIONS
    Times :   0:00:00   0:00:00                       0:00:00   0:00:00
 
 
-   Speed :           276151000 Bytes/sec.
-   Speed :           15801.486 MegaBytes/min.
-   Ended : Tuesday, March 17, 2026 8:58:41 PM
+   Speed :           1104604000 Bytes/sec.
+   Speed :            63205.947 MegaBytes/min.
+   Ended : Tuesday, March 17, 2026 11:30:28 PM
 
  
 [DEBUG] Counting source files 
